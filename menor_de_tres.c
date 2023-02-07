@@ -22,7 +22,6 @@ int main()
     {
         menor = x;
     }
-
     else if(y < z)
     {
         menor = y;
