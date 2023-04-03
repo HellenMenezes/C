@@ -22,6 +22,7 @@ int main()
     }
 
     maisVelho = idades[0];
+    posicao = 0;
 
     for(int i = 0; i < n; i++)
     {
